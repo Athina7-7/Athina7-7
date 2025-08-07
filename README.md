@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/c1nHZPnjNSgAAAAM/viciado-vicio.gif" width="100%" />
+  <img src="https://i.redd.it/gyt6a939guoc1.gif" width="100%" />
 </p>
 
 <h1 align="center">✨ ¡Hola, soy Athina Cappelletti! 🎮</h1>
