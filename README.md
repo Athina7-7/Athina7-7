@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/gyt6a939guoc1.gif" width="50%" />
+  <img src="https://i.redd.it/gyt6a939guoc1.gif" width="25%" />
 </p>
 
 <h1 align="center">✨ ¡Hola, soy Athina Cappelletti! 🎮</h1>
