@@ -97,7 +97,3 @@ Exploradora de ideas locas, proyectos creativos y tecnología con personalidad �
 
 ---
 -->
-<p align="center">
-Gracias por pasar por aquí 💫  
-<strong>¡estás en el lugar correcto!</strong> 🎉
-</p>
