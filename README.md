@@ -25,10 +25,13 @@ Exploradora de ideas locas, proyectos creativos y tecnología con personalidad �
 📂 Proyecto académico:
 - Página web de un agente entrevistador que sea capaz de elaborar y evaluar preguntas usando lenguaje natural a fin de simular una entrevista de preparación para una vacante real (**Proyecto para una materia**) *(Trabajando actualmente)*
 
+🎮 Proyecto de formación: 
+- Desarrollo de un videojuego 3D con Unity como parte de un curso de videojuegos. (**Pronto comparto de qué se trata…**)
 
 🎉 Proyecto divertido:
 - **Bola mágica con IA** que responde preguntas, predice el futuro (más o menos) y tiene actitud propia 😎  
 > *(Repositorio en proceso de actualización... jsjas)*
+
 
 
 ---
