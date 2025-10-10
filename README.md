@@ -81,13 +81,6 @@ Exploradora de ideas locas, proyectos creativos y tecnología con personalidad �
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athina7-7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
 
 
 <!-- Actualizar esto:
