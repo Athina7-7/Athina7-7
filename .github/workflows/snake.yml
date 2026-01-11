@@ -18,7 +18,8 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
           color_snake: "#ff4fe6"
-          color_dots: "#111111 #0f2f1f #2ecc71 #ff4fe6"
+          color_dots: "transparent #0f2f1f #2ecc71 #ff4fe6"
+
 
       - uses: actions/upload-artifact@v4
         with:
