@@ -1,3 +1,4 @@
+![snake animation](https://github.com/Athina7-7/Athina7-7/blob/output/snake.svg)
 <p align="center">
   <img src="https://i.redd.it/gyt6a939guoc1.gif" width="25%" />
 </p>
