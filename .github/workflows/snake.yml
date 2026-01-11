@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         id: snake
@@ -16,18 +17,15 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+          color_snake: "#ff4fe6"
+          color_dots: "#111111 #0f2f1f #2ecc71 #ff4fe6"
 
       - uses: actions/upload-artifact@v4
         with:
-          name: snake-svg
+          name: build-artifacts
           path: dist
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake-dark-svg
-          path: dist
-
-      - name: Push snake animation
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
