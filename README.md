@@ -5,11 +5,7 @@
 <h1 align="center">✨ ¡Hola, soy Athina Cappelletti! 🎮</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>  
-<br>
-Amante del cine, las historias bien contadas y los mundos que nos hacen soñar  
-<br>
-Exploradora de ideas locas, proyectos creativos y tecnología con personalidad 🧪
+Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong> 
 </p>
 
 ---
@@ -17,31 +13,29 @@ Exploradora de ideas locas, proyectos creativos y tecnología con personalidad �
 ## 🚀 ¿Qué estoy haciendo ahora?
 
 🎯 Actualmente enfocada en:
-- **Unity**, **Bootstrap**, **C++**, **React**, **Node.js**
+- **Angular**, **TypeScript**, **SuiteCRM**
 
+<!--
 📂 Proyecto académico:
 - Página web de contabilidad e inventario (**Proyecto para una materia**) *(Trabajando actualmente)*
 
-📂 Proyecto académico:
-- Página web de un agente entrevistador que sea capaz de elaborar y evaluar preguntas usando lenguaje natural a fin de simular una entrevista de preparación para una vacante real (**Proyecto para una materia**) *(Trabajando actualmente)*
 
 🎮 Proyecto de formación: 
 - Desarrollo de un videojuego 3D con Unity como parte de un curso de videojuegos. (**Pronto comparto de qué se trata…**)
+!-->
 
-🎉 Proyecto divertido:
+🎉 Proyecto personal:
 - **Bola mágica con IA** que responde preguntas, predice el futuro (más o menos) y tiene actitud propia 😎  
 > *(Repositorio en proceso de actualización... jsjas)*
-
-
 
 ---
 
 ## 🔧 Áreas que me emocionan
 
-- 🤖 Integración de inteligencia artificial en proyectos creativos  
-- 🕹️ Desarrollo de videojuegos y simulaciones en Unity  
-- 🎨 Diseño de interfaces con personalidad  
-- 📽️ Narrativas interactivas y experiencias inmersivas  
+- 🤖 Integración de inteligencia artificial en proyectos.
+- ☁️ AWS y seguridad.
+- 🎨 Diseño de interfaces.
+- 🪪 Base de datos
 
 ---
 <!--
