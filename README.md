@@ -1,4 +1,6 @@
-![snake animation](https://github.com/Athina7-7/Athina7-7/blob/output/snake.svg)
+<!-- Snake en modo dark -->
+![snake animation](https://raw.githubusercontent.com/Athina7-7/Athina7-7/output/snake-dark.svg)
+
 <p align="center">
   <img src="https://i.redd.it/gyt6a939guoc1.gif" width="25%" />
 </p>
@@ -39,52 +41,9 @@ Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>
 - 🪪 Base de datos
 
 ---
-<!--
-
-## 🌟 Proyectos destacados
-
-| 💡 Proyecto | 📄 Descripción | 🔗 Enlace |
-|------------|----------------|-----------|
-| `Bola Mágica IA` | Bola que responde con estilo y sarcasmo usando IA | [Ver repo](https://github.com/athina/bola-magica-ia) |
-| `Cine Interactivo` | Experimento narrativo donde el espectador decide el rumbo | [Ver repo](https://github.com/athina/cine-interactivo) |
-| `Unity Playground` | Espacio para probar mecánicas, físicas y efectos visuales | [Ver repo](https://github.com/athina/unity-playground) |
-
----
-
-## 🎬 Cine + Tecnología = ❤️
-
-> “La tecnología no solo se programa... también se siente.” – Athina :)
-
----
-
-## 🎨 Tecnologías favoritas
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Exploration-purple?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
 
 ## 🧠 Lenguajes más usados
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athina7-7&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
----
-
-
-
-<!-- Actualizar esto:
-
-## 📫 ¿Dónde encontrarme?
-
-- 🎥 [Instagram de proyectos](https://instagram.com/athina.codes)  
-- 💬 [LinkedIn](https://linkedin.com/in/athina-cappelletti)  
-- 🧠 [Blog de ideas creativas](https://athina.dev/blog)
-
----
--->
