@@ -13,23 +13,23 @@ Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>
 
 ---
 
-## 🚀 ¿Qué estoy haciendo ahora?
+
 
 🎯 Actualmente enfocada en:
 - **Angular**, **TypeScript**, **SuiteCRM**
 
-<!--
+## 🚀Algunos proyectos:
+
 📂 Proyecto académico:
 - Página web de contabilidad e inventario (**Proyecto para una materia**) *(Trabajando actualmente)*
 
-
+<!--
 🎮 Proyecto de formación: 
 - Desarrollo de un videojuego 3D con Unity como parte de un curso de videojuegos. (**Pronto comparto de qué se trata…**)
 !-->
 
 🎉 Proyecto personal:
-- **Bola mágica con IA** que responde preguntas, predice el futuro (más o menos) y tiene actitud propia 😎  
-> *(Repositorio en proceso de actualización... jsjas)*
+- **Bola 8** que responde preguntas, predice el futuro (más o menos). 
 
 ---
 
@@ -41,9 +41,3 @@ Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>
 - 🪪 Base de datos
 
 ---
-
-## 🧠 Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athina7-7&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
