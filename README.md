@@ -20,8 +20,11 @@ Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>
 
 ## 🚀Algunos proyectos:
 
-📂 Proyecto académico:
-- Página web de contabilidad e inventario (**Proyecto para una materia**) *(Trabajando actualmente)*
+📂 Proyecto académico (Nuevo):
+- **PriceVision** es una aplicación web predictivo que utiliza modelos de análisis para optimizar la gestión inmobiliaria, proyectando recursos y precios mediante informes visuales que facilitan la toma de decisiones estratégicas. (**Proyecto para una materia**) *(Trabajando actualmente)*
+
+📂 Proyecto académico (viejo):
+- Página web de contabilidad e inventario *(Tratar de trabajarlo pronto)*
 
 <!--
 🎮 Proyecto de formación: 
