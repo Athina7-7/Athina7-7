@@ -5,7 +5,7 @@
   <img src="https://i.redd.it/gyt6a939guoc1.gif" width="25%" />
 </p>
 
-<h1 align="center">✨ ¡Hola, soy Athina Cappelletti! 🎮</h1>
+<h1 align="center">¡Hola, soy Athina Cappelletti! ✨ </h1>
 
 <p align="center">
 Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong> 
@@ -21,18 +21,18 @@ Estudiante de Ingeniería de Sistemas en <strong>Universidad EAFIT</strong>
 ## 🚀Algunos proyectos:
 
 📂 Proyecto académico (Nuevo):
-- **PriceVision** es una aplicación web predictivo que utiliza modelos de análisis para optimizar la gestión inmobiliaria, proyectando recursos y precios mediante informes visuales que facilitan la toma de decisiones estratégicas. (**Proyecto para una materia**) *(Trabajando actualmente)*
+- **PriceVision** es una aplicación web predictivo que utiliza modelos de análisis para optimizar la gestión inmobiliaria, proyectando recursos y precios mediante informes visuales que facilitan la toma de decisiones estratégicas. (**Proyecto para una materia**) 
 
 📂 Proyecto académico (viejo):
-- Página web de contabilidad e inventario *(Tratar de trabajarlo pronto)*
+- 
 
 <!--
 🎮 Proyecto de formación: 
 - Desarrollo de un videojuego 3D con Unity como parte de un curso de videojuegos. (**Pronto comparto de qué se trata…**)
 !-->
 
-🎉 Proyecto personal:
-- **Bola 8** que responde preguntas, predice el futuro (más o menos). 
+🎉 Proyecto aprendizaje:
+- **Bola 8** es un proyecto frontend básico que incluye transcripción de audio y respuestas aleatorias predeterminadas, ideal para aprender desarrollo web y la estructura de componentes visuales.
 
 ---
 
